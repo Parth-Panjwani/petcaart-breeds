@@ -1,0 +1,118 @@
+{
+  "id": "boxer",
+  "name": "Boxer",
+  "slug": "boxer",
+  "image": "https://example.com/boxer-main.png",
+  "description": "The Boxer is an energetic, intelligent, and loyal breed with a playful spirit. Known for their muscular build and affectionate personality, Boxers make excellent family dogs and companions for active lifestyles.",
+  "category": "dogs",
+  "characteristics": {
+    "size": "Medium to Large",
+    "temperament": "Playful, Loyal, Intelligent",
+    "lifespan": "10-12 years",
+    "weight": "25-35 kg"
+  },
+  "adaptability": {
+    "hotWeatherTolerance": "30°C",
+    "coldWeatherTolerance": "6°C",
+    "description": "Boxers are sensitive to extreme temperatures. Protect them from excessive heat and cold due to their short coat and brachycephalic muzzle.",
+    "image": "/boxer-1.png"
+  },
+  "diet": {
+    "title": "DIET",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Boxers</span> thrive on a <strong>high-protein, nutrient-dense diet</strong> that supports muscle maintenance, heart health, and high energy levels.",
+    "image": "/boxer-2.png",
+    "tips": [
+      {
+        "number": "1",
+        "title": "Protein for muscles",
+        "description": "Select foods with 22–28% protein to sustain their lean and muscular body structure.",
+        "products": [
+          { "id": 1, "image": "/boxer-3.png", "label": "High-Protein Kibble", "expandIcon": true },
+          { "id": 2, "image": "/boxer-3.png", "label": "Chicken & Rice Formula", "expandIcon": true }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Support heart health",
+        "description": "Boxers are prone to cardiac issues. Include taurine, L-carnitine, and Omega-3 fatty acids for heart function and coat health.",
+        "products": [
+          { "id": 1, "image": "/boxer-3.png", "label": "Heart Health Supplement", "expandIcon": true },
+          { "id": 2, "image": "/boxer-3.png", "label": "Fish Oil Capsules", "expandIcon": true }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Joint and bone support",
+        "description": "Provide glucosamine and calcium-rich diets to protect joints, especially for active Boxers.",
+        "products": [
+          { "id": 1, "image": "/boxer-3.png", "label": "Joint Support Treats", "expandIcon": true },
+          { "id": 2, "image": "/boxer-3.png", "label": "Bone Strength Formula", "expandIcon": true }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Avoid fillers",
+        "description": "Avoid foods with corn, soy, or wheat as they can lead to bloating or sensitivities.",
+        "products": [
+          { "id": 1, "image": "/boxer-3.png", "label": "Grain-Free Food", "expandIcon": true },
+          { "id": 2, "image": "/boxer-3.png", "label": "Digestive Care Food", "expandIcon": true }
+        ]
+      }
+    ]
+  },
+  "training": {
+    "title": "BOXER TRAINING",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Boxers</span> are intelligent and energetic learners. <strong>Consistency, exercise, and positive reinforcement</strong> help channel their enthusiasm productively.",
+    "image": "/boxer-4.png",
+    "tips": [
+      {
+        "id": 1,
+        "title": "Daily exercise",
+        "description": "Boxers need 1–2 hours of daily activity — brisk walks, running, or agility training to stay fit and happy.",
+        "image": "/boxer-4.png",
+        "products": [
+          { "image": "/boxer-3.png", "label": "Running Leash" },
+          { "image": "/boxer-3.png", "label": "Fetch Ball" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Early obedience training",
+        "description": "Start training young with clear boundaries. Use short, interactive sessions with rewards to keep them engaged.",
+        "image": "/boxer-4.png",
+        "products": [
+          { "image": "/boxer-3.png", "label": "Training Harness" },
+          { "image": "/boxer-3.png", "label": "Reward Treats" }
+        ]
+      }
+    ]
+  },
+  "grooming": {
+    "title": "GROOMING",
+    "subtitle": "Boxers have a short, smooth coat that’s easy to maintain. Regular care helps control shedding and promotes healthy skin.",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Boxers</span> have <strong>low grooming needs</strong> but benefit from weekly brushing and hygiene maintenance.",
+    "image": "/boxer-6.png",
+    "tips": [
+      {
+        "id": 1,
+        "title": "Weekly brushing",
+        "description": "Brush once a week using a soft glove or rubber brush to remove dead hair and dirt.",
+        "image": "/boxer-3.png",
+        "products": [
+          { "image": "/boxer-3.png", "label": "Rubber Grooming Mitt" },
+          { "image": "/boxer-3.png", "label": "Soft Bristle Brush" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Bath & nail care",
+        "description": "Bathe every 6–8 weeks and trim nails regularly to prevent cracking. Clean ears gently to avoid infections.",
+        "image": "/boxer-3.png",
+        "products": [
+          { "image": "/boxer-3.png", "label": "Mild Dog Shampoo" },
+          { "image": "/boxer-3.png", "label": "Nail Clipper Set" }
+        ]
+      }
+    ]
+  }
+}

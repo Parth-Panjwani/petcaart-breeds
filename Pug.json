@@ -1,0 +1,158 @@
+{
+  "id": "pug",
+  "name": "Pug",
+  "slug": "pug",
+  "image": "https://example.com/pug-main.png",
+  "description": "The Pug is charming, mischievous, and loving — a small dog with a big personality. Known for their expressive face and loyal nature, Pugs thrive on companionship and enjoy being the center of attention.",
+  "category": "dogs",
+  "characteristics": {
+    "size": "Small",
+    "temperament": "Playful, Affectionate, Cheerful",
+    "lifespan": "12-15 years",
+    "weight": "6-8 kg"
+  },
+  "adaptability": {
+    "hotWeatherTolerance": "28°C",
+    "coldWeatherTolerance": "10°C",
+    "description": "Pugs are sensitive to heat due to their short snouts. Keep them indoors during hot weather and ensure proper ventilation and hydration.",
+    "image": "/pug-1.png"
+  },
+  "diet": {
+    "title": "DIET",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Pugs</span> need a <strong>balanced, low-fat diet</strong> with controlled portions to prevent obesity and support their respiratory and joint health.",
+    "image": "/pug-2.png",
+    "tips": [
+      {
+        "number": "1",
+        "title": "Calorie control",
+        "description": "Feed small, measured portions to prevent weight gain, which can worsen breathing and joint issues.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/pug-3.png",
+            "label": "Weight Management Food",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/pug-3.png",
+            "label": "Low-Calorie Treats",
+            "expandIcon": true
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Digestive care",
+        "description": "Choose food with probiotics and easily digestible protein to reduce gas and bloating.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/pug-3.png",
+            "label": "Digestive Care Kibble",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/pug-3.png",
+            "label": "Probiotic Supplement",
+            "expandIcon": true
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Joint & skin support",
+        "description": "Include Omega fatty acids and glucosamine for healthy joints and smooth skin.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/pug-3.png",
+            "label": "Fish Oil Capsules",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/pug-3.png",
+            "label": "Joint Support Treats",
+            "expandIcon": true
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Hydration & slow feeding",
+        "description": "Use slow-feeder bowls to prevent gulping and always keep fresh water available.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/pug-3.png",
+            "label": "Slow Feeder Bowl",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/pug-3.png",
+            "label": "Water Fountain Bowl",
+            "expandIcon": true
+          }
+        ]
+      }
+    ]
+  },
+  "training": {
+    "title": "PUG TRAINING",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Pugs</span> are intelligent and eager to please but can be a bit stubborn. <strong>Short, fun sessions with treats and affection</strong> work best for this breed.",
+    "image": "/pug-4.png",
+    "tips": [
+      {
+        "id": 1,
+        "title": "Positive reinforcement",
+        "description": "Reward good behavior immediately with treats or praise to keep your Pug motivated.",
+        "image": "/pug-4.png",
+        "products": [
+          { "image": "/pug-3.png", "label": "Soft Training Treats" },
+          { "image": "/pug-3.png", "label": "Clicker" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Short exercise sessions",
+        "description": "Avoid overexertion. Take short walks or play indoors to keep them active without overheating.",
+        "image": "/pug-4.png",
+        "products": [
+          { "image": "/pug-3.png", "label": "Indoor Toy Set" },
+          { "image": "/pug-3.png", "label": "Cooling Vest" }
+        ]
+      }
+    ]
+  },
+  "grooming": {
+    "title": "GROOMING",
+    "subtitle": "Pugs have a short coat but shed frequently. Routine cleaning and brushing keep them comfortable and healthy.",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Pugs</span> have a <strong>short, smooth coat</strong> that requires weekly brushing and regular wrinkle cleaning to prevent irritation.",
+    "image": "/pug-6.png",
+    "tips": [
+      {
+        "id": 1,
+        "title": "Wrinkle care",
+        "description": "Clean between facial folds daily with a damp cloth and keep the area dry to prevent infection.",
+        "image": "/pug-3.png",
+        "products": [
+          { "image": "/pug-3.png", "label": "Wrinkle Wipes" },
+          { "image": "/pug-3.png", "label": "Drying Powder" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Shedding & coat care",
+        "description": "Brush weekly with a soft bristle brush to remove loose hair and distribute oils for a shiny coat.",
+        "image": "/pug-3.png",
+        "products": [
+          { "image": "/pug-3.png", "label": "Soft Bristle Brush" },
+          { "image": "/pug-3.png", "label": "Grooming Mitt" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "id": "labrador-retriever",
+  "name": "Labrador Retriever",
+  "slug": "labrador-retriever",
+  "image": "https://example.com/labrador-main.png",
+  "description": "The Labrador Retriever is one of the most popular dog breeds worldwide—friendly, intelligent, and outgoing. Labs are known for their loyalty, adaptability, and love for family life, making them ideal companions for households and outdoor activities.",
+  "category": "dogs",
+  "characteristics": {
+    "size": "Medium to Large",
+    "temperament": "Friendly, Active, Outgoing",
+    "lifespan": "10-14 years",
+    "weight": "25-36 kg"
+  },
+  "adaptability": {
+    "hotWeatherTolerance": "30°C",
+    "coldWeatherTolerance": "5°C",
+    "description": "Labradors adapt well to most climates but should be protected from excessive heat. Their short, water-resistant double coat provides good insulation in moderate cold.",
+    "image": "/lab-1.png"
+  },
+  "diet": {
+    "title": "DIET",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Labrador Retrievers</span> thrive on a <strong>high-quality, balanced diet rich in lean protein, healthy fats, and essential nutrients</strong> to maintain energy, support joint health, and prevent obesity.",
+    "image": "/lab-2.png",
+    "tips": [
+      {
+        "number": "1",
+        "title": "Control calorie intake",
+        "description": "Labradors love food and can easily gain weight. Choose portion-controlled meals with moderate calories and ensure regular feeding schedules.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/lab-3.png",
+            "label": "Weight Management Food",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/lab-3.png",
+            "label": "Low Fat Food",
+            "expandIcon": true
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Ensure protein and fiber balance",
+        "description": "Include a diet with 18–25% protein and moderate fiber to aid digestion and sustain energy throughout the day.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/lab-3.png",
+            "label": "Chicken & Rice Formula",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/lab-3.png",
+            "label": "High-Fiber Kibble",
+            "expandIcon": true
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Add supplements for joints",
+        "description": "Labradors are prone to hip and elbow issues. Include foods or supplements rich in Omega-3, glucosamine, and chondroitin to promote joint strength.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/lab-3.png",
+            "label": "Joint Health Supplement",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/lab-3.png",
+            "label": "Fish Oil Capsules",
+            "expandIcon": true
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Hydration and treats in moderation",
+        "description": "Provide constant access to clean water and avoid overfeeding treats. Opt for healthy, low-calorie snacks.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/lab-3.png",
+            "label": "Dental Chews",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/lab-3.png",
+            "label": "Low-Calorie Biscuits",
+            "expandIcon": true
+          }
+        ]
+      }
+    ]
+  },
+  "training": {
+    "title": "LABRADOR RETRIEVER TRAINING",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Labrador Retrievers</span> are highly intelligent and eager to please, making training enjoyable. <strong>Consistent positive reinforcement, regular exercise, and mental challenges</strong> are key to their well-being.",
+    "image": "/lab-4.png",
+    "tips": [
+      {
+        "id": 1,
+        "title": "Daily physical exercise",
+        "description": "Labradors need at least an hour of physical activity daily. Walking, swimming, and fetch are great ways to burn energy and prevent boredom.",
+        "image": "/lab-4.png",
+        "products": [
+          {
+            "image": "/lab-3.png",
+            "label": "Retrieving Ball"
+          },
+          {
+            "image": "/lab-3.png",
+            "label": "Floating Toy"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Mental stimulation & obedience",
+        "description": "Engage your Labrador with puzzle feeders, scent-based games, and obedience drills to keep their sharp mind active.",
+        "image": "/lab-4.png",
+        "products": [
+          {
+            "image": "/lab-3.png",
+            "label": "Puzzle Feeder"
+          },
+          {
+            "image": "/lab-3.png",
+            "label": "Interactive Tug Toy"
+          }
+        ]
+      }
+    ]
+  },
+  "grooming": {
+    "title": "GROOMING",
+    "subtitle": "Labradors have a short, dense coat that sheds seasonally but is easy to maintain. Regular brushing helps control shedding and keeps their coat shiny.",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Labrador Retrievers</span> have a <strong>short double coat</strong> that requires minimal maintenance. Consistent brushing and basic grooming routines keep them clean and comfortable.",
+    "image": "/lab-6.png",
+    "tips": [
+      {
+        "id": 1,
+        "title": "Weekly brushing",
+        "description": "Brush once or twice a week to remove loose hair and distribute natural oils. Increase brushing during shedding seasons.",
+        "image": "/lab-3.png",
+        "products": [
+          {
+            "image": "/lab-3.png",
+            "label": "De-Shedding Brush"
+          },
+          {
+            "image": "/lab-3.png",
+            "label": "Slicker Brush"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Ear and paw care",
+        "description": "Labradors’ floppy ears can trap moisture, leading to infections. Clean ears weekly and keep paws dry after swimming or walking.",
+        "image": "/lab-3.png",
+        "products": [
+          {
+            "image": "/lab-3.png",
+            "label": "Ear Cleaner"
+          },
+          {
+            "image": "/lab-3.png",
+            "label": "Paw Balm"
+          }
+        ]
+      }
+    ]
+  }
+}

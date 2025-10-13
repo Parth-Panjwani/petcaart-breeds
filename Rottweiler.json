@@ -1,0 +1,158 @@
+{
+  "id": "rottweiler",
+  "name": "Rottweiler",
+  "slug": "rottweiler",
+  "image": "https://example.com/rottweiler-main.png",
+  "description": "The Rottweiler is confident, loyal, and courageous. With early socialization and consistent training, they become devoted family guardians and excel in obedience, protection, and working roles.",
+  "category": "dogs",
+  "characteristics": {
+    "size": "Large",
+    "temperament": "Confident, Loyal, Protective",
+    "lifespan": "9-10 years",
+    "weight": "35-60 kg"
+  },
+  "adaptability": {
+    "hotWeatherTolerance": "28°C",
+    "coldWeatherTolerance": "0°C",
+    "description": "Rottweilers handle cool weather well thanks to their dense coat. In hot climates, schedule exercise during cooler hours and provide shade and fresh water.",
+    "image": "/rott-1.png"
+  },
+  "diet": {
+    "title": "DIET",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Rottweilers</span> thrive on a <strong>lean, protein-rich, and balanced diet</strong> that supports muscle mass, joint health, and steady energy without excess weight gain.",
+    "image": "/rott-2.png",
+    "tips": [
+      {
+        "number": "1",
+        "title": "Prioritize lean protein",
+        "description": "Aim for 22–28% protein in active adults to maintain strong muscles. Choose chicken, turkey, fish, or lamb formulas.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/rott-3.png",
+            "label": "High-Protein Kibble",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/rott-3.png",
+            "label": "Fish-Based Food",
+            "expandIcon": true
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Joint support is key",
+        "description": "Large breeds benefit from Omega-3s, glucosamine, and chondroitin to support hips and elbows.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/rott-3.png",
+            "label": "Joint Care Supplement",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/rott-3.png",
+            "label": "Fish Oil Capsules",
+            "expandIcon": true
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Controlled calories",
+        "description": "Use measured portions and low-calorie treats to prevent excess weight that can stress joints.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/rott-3.png",
+            "label": "Weight Management Food",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/rott-3.png",
+            "label": "Low-Cal Treats",
+            "expandIcon": true
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Life-stage nutrition",
+        "description": "Puppies need large-breed formulas with balanced calcium/phosphorus; seniors may benefit from lower calories and added joint support.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/rott-3.png",
+            "label": "Large-Breed Puppy Food",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/rott-3.png",
+            "label": "Senior Large-Breed Food",
+            "expandIcon": true
+          }
+        ]
+      }
+    ]
+  },
+  "training": {
+    "title": "ROTTWEILER TRAINING",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Rottweilers</span> are intelligent and driven. <strong>Early socialization, structure, and positive reinforcement</strong> build a calm, reliable companion.",
+    "image": "/rott-4.png",
+    "tips": [
+      {
+        "id": 1,
+        "title": "Structured obedience & socialization",
+        "description": "Practice daily cues (sit, stay, heel, place) and expose them to varied people, dogs, and environments from a young age.",
+        "image": "/rott-4.png",
+        "products": [
+          { "image": "/rott-3.png", "label": "Treat Pouch" },
+          { "image": "/rott-3.png", "label": "Training Lead" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Physical & mental outlets",
+        "description": "Provide 60–90 minutes of activity: structured walks, fetch, tracking games, and puzzle toys to channel working instincts.",
+        "image": "/rott-4.png",
+        "products": [
+          { "image": "/rott-3.png", "label": "Puzzle Feeder" },
+          { "image": "/rott-3.png", "label": "Durable Tug Toy" }
+        ]
+      }
+    ]
+  },
+  "grooming": {
+    "title": "GROOMING",
+    "subtitle": "Short, dense double coat; low maintenance but regular care keeps skin and coat healthy.",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Rottweilers</span> have a <strong>short double coat</strong> that benefits from weekly brushing and routine hygiene.",
+    "image": "/rott-6.png",
+    "tips": [
+      {
+        "id": 1,
+        "title": "Weekly brushing",
+        "description": "Brush once or twice a week to remove loose hair and distribute natural oils; increase during seasonal shedding.",
+        "image": "/rott-3.png",
+        "products": [
+          { "image": "/rott-3.png", "label": "Bristle Brush" },
+          { "image": "/rott-3.png", "label": "Rubber Grooming Mitt" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Skin, ear & nail care",
+        "description": "Bathe every 4–6 weeks with gentle shampoo, clean ears weekly, and trim nails regularly to prevent overgrowth.",
+        "image": "/rott-3.png",
+        "products": [
+          { "image": "/rott-3.png", "label": "Gentle Dog Shampoo" },
+          { "image": "/rott-3.png", "label": "Ear Cleaner" }
+        ]
+      }
+    ]
+  }
+}

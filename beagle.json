@@ -1,0 +1,158 @@
+{
+  "id": "beagle",
+  "name": "Beagle",
+  "slug": "beagle",
+  "image": "https://example.com/beagle-main.png",
+  "description": "The Beagle is a cheerful, curious, and loving breed known for its keen sense of smell and strong hunting instincts. Friendly and outgoing, Beagles make affectionate companions for families and children alike.",
+  "category": "dogs",
+  "characteristics": {
+    "size": "Small to Medium",
+    "temperament": "Curious, Friendly, Merry",
+    "lifespan": "12-15 years",
+    "weight": "9-14 kg"
+  },
+  "adaptability": {
+    "hotWeatherTolerance": "30°C",
+    "coldWeatherTolerance": "5°C",
+    "description": "Beagles adapt well to moderate climates but should be protected from extreme heat or prolonged cold exposure.",
+    "image": "/beagle-1.png"
+  },
+  "diet": {
+    "title": "DIET",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Beagles</span> thrive on a <strong>balanced, nutrient-rich diet</strong> with moderate calories to maintain their ideal weight and support their active lifestyle.",
+    "image": "/beagle-2.png",
+    "tips": [
+      {
+        "number": "1",
+        "title": "Watch portion sizes",
+        "description": "Beagles are prone to overeating. Measure meals carefully and avoid free-feeding to prevent obesity.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/beagle-3.png",
+            "label": "Weight Management Food",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/beagle-3.png",
+            "label": "Low-Calorie Treats",
+            "expandIcon": true
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Protein-rich meals",
+        "description": "Provide 18–25% protein from chicken, fish, or lamb to maintain energy and muscle tone.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/beagle-3.png",
+            "label": "Chicken Formula",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/beagle-3.png",
+            "label": "Fish-Based Kibble",
+            "expandIcon": true
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Fiber for digestion",
+        "description": "Include ingredients like sweet potato and beet pulp for digestive support and firm stools.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/beagle-3.png",
+            "label": "Digestive Care Food",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/beagle-3.png",
+            "label": "Fiber-Enhanced Kibble",
+            "expandIcon": true
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Age-based nutrition",
+        "description": "Select formulas tailored for Beagle puppies, adults, or seniors for balanced growth and health.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/beagle-3.png",
+            "label": "Puppy Starter Food",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/beagle-3.png",
+            "label": "Senior Dog Food",
+            "expandIcon": true
+          }
+        ]
+      }
+    ]
+  },
+  "training": {
+    "title": "BEAGLE TRAINING",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Beagles</span> are intelligent but independent thinkers. <strong>Patience, consistency, and positive rewards</strong> are essential to effective training.",
+    "image": "/beagle-4.png",
+    "tips": [
+      {
+        "id": 1,
+        "title": "Leash & recall training",
+        "description": "Beagles follow scents easily—train recall early and keep them leashed during walks.",
+        "image": "/beagle-4.png",
+        "products": [
+          { "image": "/beagle-3.png", "label": "Retractable Leash" },
+          { "image": "/beagle-3.png", "label": "Training Treats" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Mental stimulation",
+        "description": "Engage Beagles with scent games, puzzle feeders, and obedience tasks to prevent boredom-driven behavior.",
+        "image": "/beagle-4.png",
+        "products": [
+          { "image": "/beagle-3.png", "label": "Puzzle Toy" },
+          { "image": "/beagle-3.png", "label": "Scent Tracking Toy" }
+        ]
+      }
+    ]
+  },
+  "grooming": {
+    "title": "GROOMING",
+    "subtitle": "Beagles have a short coat that’s easy to maintain. Regular cleaning and brushing keep them looking great and feeling fresh.",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Beagles</span> have a <strong>short, dense coat</strong> that requires minimal care but benefits from regular brushing and hygiene checks.",
+    "image": "/beagle-6.png",
+    "tips": [
+      {
+        "id": 1,
+        "title": "Weekly brushing",
+        "description": "Brush once a week to remove dead hair and stimulate natural oils.",
+        "image": "/beagle-3.png",
+        "products": [
+          { "image": "/beagle-3.png", "label": "Soft Bristle Brush" },
+          { "image": "/beagle-3.png", "label": "Grooming Mitt" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Ear & dental hygiene",
+        "description": "Clean ears weekly to prevent infection and brush teeth 2–3 times per week.",
+        "image": "/beagle-3.png",
+        "products": [
+          { "image": "/beagle-3.png", "label": "Ear Cleaning Solution" },
+          { "image": "/beagle-3.png", "label": "Dog Toothbrush Kit" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "siberian-husky",
+  "name": "Siberian Husky",
+  "slug": "siberian-husky",
+  "image": "https://example.com/husky-main.png",
+  "description": "The Siberian Husky is energetic, intelligent, and free-spirited — a striking breed known for its blue eyes, endurance, and pack-loving nature. Friendly yet independent, Huskies make wonderful companions for active families.",
+  "category": "dogs",
+  "characteristics": {
+    "size": "Medium to Large",
+    "temperament": "Outgoing, Alert, Gentle",
+    "lifespan": "12-15 years",
+    "weight": "20-30 kg"
+  },
+  "adaptability": {
+    "hotWeatherTolerance": "28°C",
+    "coldWeatherTolerance": "-15°C",
+    "description": "Siberian Huskies thrive in colder climates due to their thick double coat. In hot weather, ensure shade, hydration, and avoid midday walks.",
+    "image": "/husky-1.png"
+  },
+  "diet": {
+    "title": "DIET",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Siberian Huskies</span> need a <strong>high-energy, protein-focused diet</strong> to support their active metabolism and maintain lean muscle.",
+    "image": "/husky-2.png",
+    "tips": [
+      {
+        "number": "1",
+        "title": "High protein content",
+        "description": "Provide 25–30% protein-rich meals from sources like fish, chicken, or lamb to meet their energy demands.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/husky-3.png",
+            "label": "High-Protein Kibble",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/husky-3.png",
+            "label": "Fish-Based Food",
+            "expandIcon": true
+          }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Healthy fats for energy",
+        "description": "Huskies use fat efficiently. Include Omega-3 and Omega-6 fatty acids to sustain energy and promote coat shine.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/husky-3.png",
+            "label": "Salmon Oil",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/husky-3.png",
+            "label": "Fish Oil Supplement",
+            "expandIcon": true
+          }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Moderate portions",
+        "description": "Huskies self-regulate food intake. Provide smaller, frequent meals rather than large portions to prevent bloating.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/husky-3.png",
+            "label": "Energy Booster Food",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/husky-3.png",
+            "label": "Balanced Adult Formula",
+            "expandIcon": true
+          }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Hydration is crucial",
+        "description": "Ensure constant access to clean, cool water—especially in warm weather—to prevent dehydration.",
+        "products": [
+          {
+            "id": 1,
+            "image": "/husky-3.png",
+            "label": "Automatic Water Bowl",
+            "expandIcon": true
+          },
+          {
+            "id": 2,
+            "image": "/husky-3.png",
+            "label": "Travel Water Bottle",
+            "expandIcon": true
+          }
+        ]
+      }
+    ]
+  },
+  "training": {
+    "title": "SIBERIAN HUSKY TRAINING",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Siberian Huskies</span> are intelligent but strong-willed. <strong>Positive reinforcement, patience, and consistent structure</strong> are vital for obedience and discipline.",
+    "image": "/husky-4.png",
+    "tips": [
+      {
+        "id": 1,
+        "title": "Channel their energy",
+        "description": "Provide daily vigorous exercise — running, hiking, or playing fetch to satisfy their stamina and prevent boredom.",
+        "image": "/husky-4.png",
+        "products": [
+          { "image": "/husky-3.png", "label": "Running Harness" },
+          { "image": "/husky-3.png", "label": "Fetch Ball" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Crate & recall training",
+        "description": "Teach recall early and use crate training for discipline, as Huskies have a natural instinct to wander.",
+        "image": "/husky-4.png",
+        "products": [
+          { "image": "/husky-3.png", "label": "Training Leash" },
+          { "image": "/husky-3.png", "label": "Crate Mat" }
+        ]
+      }
+    ]
+  },
+  "grooming": {
+    "title": "GROOMING",
+    "subtitle": "Huskies have a dense double coat that sheds seasonally. Regular grooming keeps their coat healthy and reduces shedding.",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Siberian Huskies</span> require <strong>frequent brushing during shedding seasons</strong> and moderate maintenance throughout the year.",
+    "image": "/husky-6.png",
+    "tips": [
+      {
+        "id": 1,
+        "title": "Brush regularly",
+        "description": "Brush 2–3 times per week using a de-shedding brush to manage loose undercoat and maintain airflow to skin.",
+        "image": "/husky-3.png",
+        "products": [
+          { "image": "/husky-3.png", "label": "De-Shedding Brush" },
+          { "image": "/husky-3.png", "label": "Undercoat Rake" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Bath & coat care",
+        "description": "Bathe every 6–8 weeks. Avoid overbathing as it strips natural oils; use a mild shampoo formulated for double coats.",
+        "image": "/husky-3.png",
+        "products": [
+          { "image": "/husky-3.png", "label": "Coat Care Shampoo" },
+          { "image": "/husky-3.png", "label": "Conditioning Spray" }
+        ]
+      }
+    ]
+  }
+}

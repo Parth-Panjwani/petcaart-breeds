@@ -1,0 +1,118 @@
+{
+  "id": "doberman",
+  "name": "Doberman",
+  "slug": "doberman",
+  "image": "https://example.com/doberman-main.png",
+  "description": "The Doberman Pinscher is alert, fearless, and intelligent — known for their loyalty and athleticism. With proper training and socialization, Dobermans are gentle, loving family dogs and reliable protectors.",
+  "category": "dogs",
+  "characteristics": {
+    "size": "Large",
+    "temperament": "Alert, Loyal, Fearless",
+    "lifespan": "10-13 years",
+    "weight": "30-45 kg"
+  },
+  "adaptability": {
+    "hotWeatherTolerance": "30°C",
+    "coldWeatherTolerance": "8°C",
+    "description": "Dobermans tolerate heat well due to their short coat but may need protection in colder climates. Consider a sweater during winter walks.",
+    "image": "/doberman-1.png"
+  },
+  "diet": {
+    "title": "DIET",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Dobermans</span> need a <strong>high-protein, muscle-supportive diet</strong> rich in healthy fats and minerals to maintain strength and agility.",
+    "image": "/doberman-2.png",
+    "tips": [
+      {
+        "number": "1",
+        "title": "Prioritize lean proteins",
+        "description": "Choose diets with 25–30% protein to sustain muscle mass and stamina. Chicken, lamb, and fish-based foods are excellent.",
+        "products": [
+          { "id": 1, "image": "/doberman-3.png", "label": "High-Protein Kibble", "expandIcon": true },
+          { "id": 2, "image": "/doberman-3.png", "label": "Chicken & Rice Formula", "expandIcon": true }
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Support heart & joints",
+        "description": "Include foods with taurine, Omega-3s, and antioxidants to promote cardiovascular health and strong joints.",
+        "products": [
+          { "id": 1, "image": "/doberman-3.png", "label": "Heart Health Supplement", "expandIcon": true },
+          { "id": 2, "image": "/doberman-3.png", "label": "Fish Oil Capsules", "expandIcon": true }
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Avoid fillers & excess carbs",
+        "description": "Avoid foods with wheat, corn, and soy to reduce digestive stress and maintain lean muscle.",
+        "products": [
+          { "id": 1, "image": "/doberman-3.png", "label": "Grain-Free Food", "expandIcon": true },
+          { "id": 2, "image": "/doberman-3.png", "label": "Digestive Care Formula", "expandIcon": true }
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Tailor diet to activity level",
+        "description": "Adjust portion sizes for active or working Dobermans versus indoor pets to prevent under or overfeeding.",
+        "products": [
+          { "id": 1, "image": "/doberman-3.png", "label": "Active Dog Food", "expandIcon": true },
+          { "id": 2, "image": "/doberman-3.png", "label": "Maintenance Formula", "expandIcon": true }
+        ]
+      }
+    ]
+  },
+  "training": {
+    "title": "DOBERMAN TRAINING",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Dobermans</span> are fast learners and highly intelligent. <strong>Consistent structure, early socialization, and mental exercise</strong> make them obedient and confident companions.",
+    "image": "/doberman-4.png",
+    "tips": [
+      {
+        "id": 1,
+        "title": "Confidence building",
+        "description": "Expose your Doberman to various people and settings early to build confidence and reduce overprotectiveness.",
+        "image": "/doberman-4.png",
+        "products": [
+          { "image": "/doberman-3.png", "label": "Training Harness" },
+          { "image": "/doberman-3.png", "label": "Reward Treats" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Mental & physical exercise",
+        "description": "Provide at least 1–2 hours of activity daily—agility drills, obedience games, or jogs to keep them engaged.",
+        "image": "/doberman-4.png",
+        "products": [
+          { "image": "/doberman-3.png", "label": "Agility Cone Set" },
+          { "image": "/doberman-3.png", "label": "Tug Rope Toy" }
+        ]
+      }
+    ]
+  },
+  "grooming": {
+    "title": "GROOMING",
+    "subtitle": "Dobermans have a short coat that’s easy to care for. Regular brushing and hygiene checks maintain a clean, glossy appearance.",
+    "mainDescription": "<span class='text-[#0888B1] italic'>Dobermans</span> have a <strong>sleek, short coat</strong> that sheds minimally. Routine grooming keeps them looking sharp and healthy.",
+    "image": "/doberman-6.png",
+    "tips": [
+      {
+        "id": 1,
+        "title": "Weekly brushing",
+        "description": "Use a soft brush weekly to remove loose hair and enhance shine.",
+        "image": "/doberman-3.png",
+        "products": [
+          { "image": "/doberman-3.png", "label": "Soft Bristle Brush" },
+          { "image": "/doberman-3.png", "label": "Grooming Glove" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Skin & nail care",
+        "description": "Wipe down with a damp cloth between baths, trim nails regularly, and check ears weekly for cleanliness.",
+        "image": "/doberman-3.png",
+        "products": [
+          { "image": "/doberman-3.png", "label": "Nail Clipper Set" },
+          { "image": "/doberman-3.png", "label": "Ear Cleaning Pads" }
+        ]
+      }
+    ]
+  }
+}
