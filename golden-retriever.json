@@ -1,8 +1,8 @@
 {
-  "id": "beagle",
-  "name": "Beagle",
-  "slug": "beagle",
-  "image": "/beagle-7.png",
+  "id": "golden-retriever",
+  "name": "Golden Retriever",
+  "slug": "golden-retriever",
+  "image": "/gold-7.png",
   "navigation": [
     {
       "title": "ABOUT",
@@ -21,33 +21,34 @@
       "image": "/t4.png"
     }
   ],
-  "description": "The <span style='color: #004e6a; font-weight: 600;'>Beagle</span> is known for its signature traits—loyalty, intelligence, and trainability. Recognized for their confidence and affectionate nature, <span style='color: #004e6a; font-weight: 600;'>Beagles</span> excel in family environments, working roles, and active lifestyles.",
+  "description": "The <span style='color: #004e6a; font-weight: 600;'>Golden Retriever</span> is known for its signature traits—loyalty, intelligence, and trainability. Recognized for their confidence and affectionate nature, <span style='color: #004e6a; font-weight: 600;'>Golden Retrievers</span> excel in family environments, working roles, and active lifestyles.",
   "category": "dogs",
   "characteristics": {
-    "size": "Small to Medium",
-    "temperament": "Curious, Friendly, Merry",
-    "lifespan": "12-15 years",
-    "weight": "9-14 kg",
+    "size": "Large",
+    "temperament": "Friendly, Intelligent, Devoted",
+    "lifespan": "10-12 years",
+    "weight": "25-34 kg",
     "colors": [
-      "Tri-color",
-      "Lemon & White",
-      "Red & White"
+      "Light Golden",
+      "Golden",
+      "Dark Golden",
+      "Cream"
     ],
     "weightDetails": {
-      "male": "10-14 kg",
-      "female": "9-13 kg"
+      "male": "30-34 kg",
+      "female": "25-32 kg"
     },
     "heightDetails": {
-      "male": "36-41 cm",
-      "female": "33-38 cm"
+      "male": "56-61 cm",
+      "female": "51-56 cm"
     },
-    "coat": "Short, dense coat"
+    "coat": "Double coat, medium length, water-repellent"
   },
   "adaptability": {
     "hotWeatherTolerance": "30°C",
-    "coldWeatherTolerance": "5°C",
-    "description": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Beagles</span> adapt <span style='color: #6b7280;'>well to both <strong style='color: #000000;'>hot</strong> and <strong style='color: #000000;'>cold</strong> climates, thanks to their <strong style='color: #000000;'>coat</strong> and overall resilience.</span>",
-    "image": "/beagle-1.png"
+    "coldWeatherTolerance": "4°C",
+    "description": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Golden Retrievers</span> adapt <span style='color: #6b7280;'>well to both <strong style='color: #000000;'>hot</strong> and <strong style='color: #000000;'>cold</strong> climates, thanks to their <strong style='color: #000000;'>coat</strong> and overall resilience.</span>",
+    "image": "/gold-1.png"
   },
   "traits": {
     "description": "These attributes have been rated by dog trainers, expert vets and pet behaviorists. Remember that all dogs are individuals with their own personalities.",
@@ -55,25 +56,25 @@
   },
   "diet": {
     "title": "DIET",
-    "subtitle": "Consider following tips when choosing food for your Beagle.",
-    "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Beagles</span> thrive on a <span style='color: #6b7280;'>high-protein, balanced diet rich in <strong style='color: #000000;'>animal-based proteins</strong>, <strong style='color: #000000;'>healthy fats</strong>,</span> <span style='color: #6b7280;'>and essential vitamins</span> <span style='color: #6b7280;'>to support their <strong style='color: #000000;'>active lifestyle</strong> and <strong style='color: #000000;'>joint health</strong>.</span>",
-    "image": "/beagle-2.png",
+    "subtitle": "Consider following tips when choosing food for your Golden Retriever.",
+    "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Golden Retrievers</span> thrive on a <span style='color: #6b7280;'>high-protein, balanced diet rich in <strong style='color: #000000;'>animal-based proteins</strong>, <strong style='color: #000000;'>healthy fats</strong>,</span> <span style='color: #6b7280;'>and essential vitamins</span> <span style='color: #6b7280;'>to support their <strong style='color: #000000;'>active lifestyle</strong> and <strong style='color: #000000;'>joint health</strong>.</span>",
+    "image": "/gold-2.png",
     "tips": [
       {
         "number": "1",
         "title": "Choose a protein-rich diet",
-        "description": "Beagles are prone to overeating—use measured portions with 18–25% protein and moderate calories to maintain ideal weight.",
+        "description": "Golden Retrievers are energetic; look for 18–25% protein for adults and higher for puppies to sustain activity and muscle health.",
         "products": [
           {
             "id": 1,
-            "image": "/beagle-3.png",
+            "image": "/gold-3.png",
             "label": "Chicken Based Food",
             "expandIcon": true,
             "link": "https://petcaart.com/product/chicken-based-food"
           },
           {
             "id": 2,
-            "image": "/beagle-3.png",
+            "image": "/gold-3.png",
             "label": "Liver Based Food",
             "expandIcon": true,
             "link": "https://petcaart.com/product/liver-based-food"
@@ -83,18 +84,18 @@
       {
         "number": "2",
         "title": "Avoid fillers & additives",
-        "description": "Beagles should avoid foods with heavy fillers such as wheat and soy that may be difficult to digest or trigger sensitivities.",
+        "description": "Golden Retrievers should avoid foods with heavy fillers such as wheat and soy that may be difficult to digest or trigger sensitivities.",
         "products": [
           {
             "id": 1,
-            "image": "/beagle-3.png",
+            "image": "/gold-3.png",
             "label": "Grain-Free Food",
             "expandIcon": true,
             "link": "https://petcaart.com/product/grain-free-food"
           },
           {
             "id": 2,
-            "image": "/beagle-3.png",
+            "image": "/gold-3.png",
             "label": "Natural Food",
             "expandIcon": true,
             "link": "https://petcaart.com/product/natural-food"
@@ -108,14 +109,14 @@
         "products": [
           {
             "id": 1,
-            "image": "/beagle-3.png",
+            "image": "/gold-3.png",
             "label": "Fish Oil Supplement",
             "expandIcon": true,
             "link": "https://petcaart.com/product/fish-oil-supplement"
           },
           {
             "id": 2,
-            "image": "/beagle-3.png",
+            "image": "/gold-3.png",
             "label": "Salmon Based Food",
             "expandIcon": true,
             "link": "https://petcaart.com/product/salmon-based-food"
@@ -125,18 +126,18 @@
       {
         "number": "4",
         "title": "Consider their age",
-        "description": "Choose an appropriate diet according to your Beagle's age—puppies need more protein and fat for growth, while adult and senior dogs may require lower levels for weight maintenance.",
+        "description": "Choose an appropriate diet according to your Golden Retriever's age—puppies need more protein and fat for growth, while adult and senior dogs may require lower levels for weight maintenance.",
         "products": [
           {
             "id": 1,
-            "image": "/beagle-3.png",
+            "image": "/gold-3.png",
             "label": "Puppy Food",
             "expandIcon": true,
             "link": "https://petcaart.com/product/puppy-food"
           },
           {
             "id": 2,
-            "image": "/beagle-3.png",
+            "image": "/gold-3.png",
             "label": "Senior Dog Food",
             "expandIcon": true,
             "link": "https://petcaart.com/product/senior-dog-food"
@@ -146,24 +147,24 @@
     ]
   },
   "training": {
-    "title": "BEAGLE TRAINING",
-    "subtitle": "Essential training tips to help your Beagle thrive.",
-    "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Beagles</span> require <span style='color: #6b7280;'>regular <strong style='color: #000000;'>exercise</strong>, proper <strong style='color: #000000;'>grooming</strong>, <strong style='color: #000000;'>socialization</strong>, and consistent <strong style='color: #000000;'>training</strong></span> <span style='color: #6b7280;'>to maintain their physical health and mental well-being.</span>",
-    "image": "/beagle-4.png",
+    "title": "GOLDEN RETRIEVER TRAINING",
+    "subtitle": "Essential training tips to help your Golden Retriever thrive.",
+    "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Golden Retrievers</span> require <span style='color: #6b7280;'>regular <strong style='color: #000000;'>exercise</strong>, proper <strong style='color: #000000;'>grooming</strong>, <strong style='color: #000000;'>socialization</strong>, and consistent <strong style='color: #000000;'>training</strong></span> <span style='color: #6b7280;'>to maintain their physical health and mental well-being.</span>",
+    "image": "/gold-4.png",
     "tips": [
       {
         "id": 1,
         "title": "Physical training and exercises",
         "description": "Include activities such as running, playing fetch, swimming, agility training, or hiking in their routine.",
-        "image": "/beagle-4.png",
+        "image": "/gold-4.png",
         "products": [
           {
-            "image": "/beagle-3.png",
+            "image": "/gold-3.png",
             "label": "Training Product 1",
             "link": "https://petcaart.com/product/training-product-1"
           },
           {
-            "image": "/beagle-3.png",
+            "image": "/gold-3.png",
             "label": "Training Product 2",
             "link": "https://petcaart.com/product/training-product-2"
           }
@@ -173,15 +174,15 @@
         "id": 2,
         "title": "Interactive play",
         "description": "Use scent-retention games and puzzle toys to provide mental stimulation and keep them engaged.",
-        "image": "/beagle-4.png",
+        "image": "/gold-4.png",
         "products": [
           {
-            "image": "/beagle-3.png",
+            "image": "/gold-3.png",
             "label": "Puzzle Toys",
             "link": "https://petcaart.com/product/puzzle-toys"
           },
           {
-            "image": "/beagle-3.png",
+            "image": "/gold-3.png",
             "label": "Interactive Toys",
             "link": "https://petcaart.com/product/interactive-toys"
           }
@@ -191,23 +192,23 @@
   },
   "grooming": {
     "title": "GROOMING",
-    "subtitle": "Consider following tips when grooming your Beagle.",
-    "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Beagles</span> have relatively <span style='color: #6b7280;'>low <strong style='color: #000000;'>grooming</strong> needs</span> despite their coat type. Here are some essential tips <span style='color: #6b7280;'>to ensure they</span> <strong style='color: #000000;'>shine.</strong>",
-    "image": "/beagle-6.png",
+    "subtitle": "Consider following tips when grooming your Golden Retriever.",
+    "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Golden Retrievers</span> have relatively <span style='color: #6b7280;'>low <strong style='color: #000000;'>grooming</strong> needs</span> despite their coat type. Here are some essential tips <span style='color: #6b7280;'>to ensure they</span> <strong style='color: #000000;'>shine.</strong>",
+    "image": "/gold-6.png",
     "tips": [
       {
         "id": 1,
         "title": "Brush and bath",
         "description": "Brush regularly to remove loose hair and distribute natural oils. Occasional bathing keeps them clean and fresh.",
-        "image": "/beagle-3.png",
+        "image": "/gold-3.png",
         "products": [
           {
-            "image": "/beagle-3.png",
+            "image": "/gold-3.png",
             "label": "Grooming Brush",
             "link": "https://petcaart.com/product/grooming-brush"
           },
           {
-            "image": "/beagle-3.png",
+            "image": "/gold-3.png",
             "label": "Dog Shampoo",
             "link": "https://petcaart.com/product/dog-shampoo"
           }
@@ -217,15 +218,15 @@
         "id": 2,
         "title": "Keep their ears clean",
         "description": "Check ears regularly and clean when required with a cotton ball and a mild ear-cleaning solution.",
-        "image": "/beagle-3.png",
+        "image": "/gold-3.png",
         "products": [
           {
-            "image": "/beagle-3.png",
+            "image": "/gold-3.png",
             "label": "Ear Cleaner",
             "link": "https://petcaart.com/product/ear-cleaner"
           },
           {
-            "image": "/beagle-3.png",
+            "image": "/gold-3.png",
             "label": "Cotton Pads",
             "link": "https://petcaart.com/product/cotton-pads"
           }
@@ -236,6 +237,6 @@
   "homeCookedFood": {
     "title": "Home-Cooked Food Must Contain:",
     "description": "<span style='color: #6b7280;'>Preparing home-cooked meals may be <strong style='color: #000000;'>time consuming</strong> and <strong style='color: #000000;'>nutritionally incomplete</strong>, consider adding food <strong style='color: #000000;'>toppers</strong> or <strong style='color: #000000;'>supplements</strong> to make up for the <strong style='color: #000000;'>lack of nutrients</strong>.</span>",
-    "image": "/beagle-8.png"
+    "image": "/gold-8.png"
   }
 }

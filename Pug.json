@@ -2,99 +2,145 @@
   "id": "pug",
   "name": "Pug",
   "slug": "pug",
-  "image": "https://example.com/pug-main.png",
-  "description": "The Pug is charming, mischievous, and loving — a small dog with a big personality. Known for their expressive face and loyal nature, Pugs thrive on companionship and enjoy being the center of attention.",
+  "image": "/pug-7.png",
+  "navigation": [
+    {
+      "title": "ABOUT",
+      "image": "/t1.png"
+    },
+    {
+      "title": "DIET",
+      "image": "/t2.png"
+    },
+    {
+      "title": "TRAINING",
+      "image": "/t3.png"
+    },
+    {
+      "title": "GROOMING",
+      "image": "/t4.png"
+    }
+  ],
+  "description": "The <span style='color: #004e6a; font-weight: 600;'>Pug</span> is known for its signature traits—loyalty, intelligence, and trainability. Recognized for their confidence and affectionate nature, <span style='color: #004e6a; font-weight: 600;'>Pugs</span> excel in family environments, working roles, and active lifestyles.",
   "category": "dogs",
   "characteristics": {
     "size": "Small",
     "temperament": "Playful, Affectionate, Cheerful",
     "lifespan": "12-15 years",
-    "weight": "6-8 kg"
+    "weight": "6-8 kg",
+    "colors": [
+      "Fawn",
+      "Black",
+      "Apricot",
+      "Silver Fawn"
+    ],
+    "weightDetails": {
+      "male": "6-8 kg",
+      "female": "6-8 kg"
+    },
+    "heightDetails": {
+      "male": "30-36 cm",
+      "female": "28-34 cm"
+    },
+    "coat": "Short, smooth coat with facial folds"
   },
   "adaptability": {
     "hotWeatherTolerance": "28°C",
     "coldWeatherTolerance": "10°C",
-    "description": "Pugs are sensitive to heat due to their short snouts. Keep them indoors during hot weather and ensure proper ventilation and hydration.",
+    "description": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Pugs</span> adapt <span style='color: #6b7280;'>well to both <strong style='color: #000000;'>hot</strong> and <strong style='color: #000000;'>cold</strong> climates, thanks to their <strong style='color: #000000;'>coat</strong> and overall resilience.</span>",
     "image": "/pug-1.png"
+  },
+  "traits": {
+    "description": "These attributes have been rated by dog trainers, expert vets and pet behaviorists. Remember that all dogs are individuals with their own personalities.",
+    "image": "/trait-img.png"
   },
   "diet": {
     "title": "DIET",
-    "mainDescription": "<span class='text-[#0888B1] italic'>Pugs</span> need a <strong>balanced, low-fat diet</strong> with controlled portions to prevent obesity and support their respiratory and joint health.",
+    "subtitle": "Consider following tips when choosing food for your Pug.",
+    "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Pugs</span> thrive on a <span style='color: #6b7280;'>high-protein, balanced diet rich in <strong style='color: #000000;'>animal-based proteins</strong>, <strong style='color: #000000;'>healthy fats</strong>,</span> <span style='color: #6b7280;'>and essential vitamins</span> <span style='color: #6b7280;'>to support their <strong style='color: #000000;'>active lifestyle</strong> and <strong style='color: #000000;'>joint health</strong>.</span>",
     "image": "/pug-2.png",
     "tips": [
       {
         "number": "1",
-        "title": "Calorie control",
-        "description": "Feed small, measured portions to prevent weight gain, which can worsen breathing and joint issues.",
+        "title": "Choose a protein-rich diet",
+        "description": "Pugs need controlled calories with easily digestible protein to prevent obesity and support respiratory and joint health.",
         "products": [
           {
             "id": 1,
             "image": "/pug-3.png",
-            "label": "Weight Management Food",
-            "expandIcon": true
+            "label": "Chicken Based Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/chicken-based-food"
           },
           {
             "id": 2,
             "image": "/pug-3.png",
-            "label": "Low-Calorie Treats",
-            "expandIcon": true
+            "label": "Liver Based Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/liver-based-food"
           }
         ]
       },
       {
         "number": "2",
-        "title": "Digestive care",
-        "description": "Choose food with probiotics and easily digestible protein to reduce gas and bloating.",
+        "title": "Avoid fillers & additives",
+        "description": "Pugs should avoid foods with heavy fillers such as wheat and soy that may be difficult to digest or trigger sensitivities.",
         "products": [
           {
             "id": 1,
             "image": "/pug-3.png",
-            "label": "Digestive Care Kibble",
-            "expandIcon": true
+            "label": "Grain-Free Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/grain-free-food"
           },
           {
             "id": 2,
             "image": "/pug-3.png",
-            "label": "Probiotic Supplement",
-            "expandIcon": true
+            "label": "Natural Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/natural-food"
           }
         ]
       },
       {
         "number": "3",
-        "title": "Joint & skin support",
-        "description": "Include Omega fatty acids and glucosamine for healthy joints and smooth skin.",
+        "title": "Add Essential Fatty Acids",
+        "description": "Look for foods containing Omega-3 and Omega-6 fatty acids to support skin, coat, and joint comfort.",
         "products": [
           {
             "id": 1,
             "image": "/pug-3.png",
-            "label": "Fish Oil Capsules",
-            "expandIcon": true
+            "label": "Fish Oil Supplement",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/fish-oil-supplement"
           },
           {
             "id": 2,
             "image": "/pug-3.png",
-            "label": "Joint Support Treats",
-            "expandIcon": true
+            "label": "Salmon Based Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/salmon-based-food"
           }
         ]
       },
       {
         "number": "4",
-        "title": "Hydration & slow feeding",
-        "description": "Use slow-feeder bowls to prevent gulping and always keep fresh water available.",
+        "title": "Consider their age",
+        "description": "Choose an appropriate diet according to your Pug's age—puppies need more protein and fat for growth, while adult and senior dogs may require lower levels for weight maintenance.",
         "products": [
           {
             "id": 1,
             "image": "/pug-3.png",
-            "label": "Slow Feeder Bowl",
-            "expandIcon": true
+            "label": "Puppy Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/puppy-food"
           },
           {
             "id": 2,
             "image": "/pug-3.png",
-            "label": "Water Fountain Bowl",
-            "expandIcon": true
+            "label": "Senior Dog Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/senior-dog-food"
           }
         ]
       }
@@ -102,57 +148,95 @@
   },
   "training": {
     "title": "PUG TRAINING",
-    "mainDescription": "<span class='text-[#0888B1] italic'>Pugs</span> are intelligent and eager to please but can be a bit stubborn. <strong>Short, fun sessions with treats and affection</strong> work best for this breed.",
+    "subtitle": "Essential training tips to help your Pug thrive.",
+    "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Pugs</span> require <span style='color: #6b7280;'>regular <strong style='color: #000000;'>exercise</strong>, proper <strong style='color: #000000;'>grooming</strong>, <strong style='color: #000000;'>socialization</strong>, and consistent <strong style='color: #000000;'>training</strong></span> <span style='color: #6b7280;'>to maintain their physical health and mental well-being.</span>",
     "image": "/pug-4.png",
     "tips": [
       {
         "id": 1,
-        "title": "Positive reinforcement",
-        "description": "Reward good behavior immediately with treats or praise to keep your Pug motivated.",
+        "title": "Physical training and exercises",
+        "description": "Include activities such as running, playing fetch, swimming, agility training, or hiking in their routine.",
         "image": "/pug-4.png",
         "products": [
-          { "image": "/pug-3.png", "label": "Soft Training Treats" },
-          { "image": "/pug-3.png", "label": "Clicker" }
+          {
+            "image": "/pug-3.png",
+            "label": "Training Product 1",
+            "link": "https://petcaart.com/product/training-product-1"
+          },
+          {
+            "image": "/pug-3.png",
+            "label": "Training Product 2",
+            "link": "https://petcaart.com/product/training-product-2"
+          }
         ]
       },
       {
         "id": 2,
-        "title": "Short exercise sessions",
-        "description": "Avoid overexertion. Take short walks or play indoors to keep them active without overheating.",
+        "title": "Interactive play",
+        "description": "Use scent-retention games and puzzle toys to provide mental stimulation and keep them engaged.",
         "image": "/pug-4.png",
         "products": [
-          { "image": "/pug-3.png", "label": "Indoor Toy Set" },
-          { "image": "/pug-3.png", "label": "Cooling Vest" }
+          {
+            "image": "/pug-3.png",
+            "label": "Puzzle Toys",
+            "link": "https://petcaart.com/product/puzzle-toys"
+          },
+          {
+            "image": "/pug-3.png",
+            "label": "Interactive Toys",
+            "link": "https://petcaart.com/product/interactive-toys"
+          }
         ]
       }
     ]
   },
   "grooming": {
     "title": "GROOMING",
-    "subtitle": "Pugs have a short coat but shed frequently. Routine cleaning and brushing keep them comfortable and healthy.",
-    "mainDescription": "<span class='text-[#0888B1] italic'>Pugs</span> have a <strong>short, smooth coat</strong> that requires weekly brushing and regular wrinkle cleaning to prevent irritation.",
+    "subtitle": "Consider following tips when grooming your Pug.",
+    "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Pugs</span> have relatively <span style='color: #6b7280;'>low <strong style='color: #000000;'>grooming</strong> needs</span> despite their coat type. Here are some essential tips <span style='color: #6b7280;'>to ensure they</span> <strong style='color: #000000;'>shine.</strong>",
     "image": "/pug-6.png",
     "tips": [
       {
         "id": 1,
-        "title": "Wrinkle care",
-        "description": "Clean between facial folds daily with a damp cloth and keep the area dry to prevent infection.",
+        "title": "Brush and bath",
+        "description": "Brush regularly to remove loose hair and distribute natural oils. Occasional bathing keeps them clean and fresh.",
         "image": "/pug-3.png",
         "products": [
-          { "image": "/pug-3.png", "label": "Wrinkle Wipes" },
-          { "image": "/pug-3.png", "label": "Drying Powder" }
+          {
+            "image": "/pug-3.png",
+            "label": "Grooming Brush",
+            "link": "https://petcaart.com/product/grooming-brush"
+          },
+          {
+            "image": "/pug-3.png",
+            "label": "Dog Shampoo",
+            "link": "https://petcaart.com/product/dog-shampoo"
+          }
         ]
       },
       {
         "id": 2,
-        "title": "Shedding & coat care",
-        "description": "Brush weekly with a soft bristle brush to remove loose hair and distribute oils for a shiny coat.",
+        "title": "Keep their ears clean",
+        "description": "Check ears regularly and clean when required with a cotton ball and a mild ear-cleaning solution.",
         "image": "/pug-3.png",
         "products": [
-          { "image": "/pug-3.png", "label": "Soft Bristle Brush" },
-          { "image": "/pug-3.png", "label": "Grooming Mitt" }
+          {
+            "image": "/pug-3.png",
+            "label": "Ear Cleaner",
+            "link": "https://petcaart.com/product/ear-cleaner"
+          },
+          {
+            "image": "/pug-3.png",
+            "label": "Cotton Pads",
+            "link": "https://petcaart.com/product/cotton-pads"
+          }
         ]
       }
     ]
+  },
+  "homeCookedFood": {
+    "title": "Home-Cooked Food Must Contain:",
+    "description": "<span style='color: #6b7280;'>Preparing home-cooked meals may be <strong style='color: #000000;'>time consuming</strong> and <strong style='color: #000000;'>nutritionally incomplete</strong>, consider adding food <strong style='color: #000000;'>toppers</strong> or <strong style='color: #000000;'>supplements</strong> to make up for the <strong style='color: #000000;'>lack of nutrients</strong>.</span>",
+    "image": "/pug-8.png"
   }
 }

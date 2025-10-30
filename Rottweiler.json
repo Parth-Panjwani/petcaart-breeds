@@ -2,99 +2,142 @@
   "id": "rottweiler",
   "name": "Rottweiler",
   "slug": "rottweiler",
-  "image": "https://example.com/rottweiler-main.png",
-  "description": "The Rottweiler is confident, loyal, and courageous. With early socialization and consistent training, they become devoted family guardians and excel in obedience, protection, and working roles.",
+  "image": "/rott-7.png",
+  "navigation": [
+    {
+      "title": "ABOUT",
+      "image": "/t1.png"
+    },
+    {
+      "title": "DIET",
+      "image": "/t2.png"
+    },
+    {
+      "title": "TRAINING",
+      "image": "/t3.png"
+    },
+    {
+      "title": "GROOMING",
+      "image": "/t4.png"
+    }
+  ],
+  "description": "The <span style='color: #004e6a; font-weight: 600;'>Rottweiler</span> is known for its signature traits—loyalty, intelligence, and trainability. Recognized for their confidence and affectionate nature, <span style='color: #004e6a; font-weight: 600;'>Rottweilers</span> excel in family environments, working roles, and active lifestyles.",
   "category": "dogs",
   "characteristics": {
     "size": "Large",
     "temperament": "Confident, Loyal, Protective",
     "lifespan": "9-10 years",
-    "weight": "35-60 kg"
+    "weight": "35-60 kg",
+    "colors": [
+      "Black & Tan"
+    ],
+    "weightDetails": {
+      "male": "45-60 kg",
+      "female": "35-48 kg"
+    },
+    "heightDetails": {
+      "male": "61-69 cm",
+      "female": "56-63 cm"
+    },
+    "coat": "Short, dense double coat"
   },
   "adaptability": {
     "hotWeatherTolerance": "28°C",
     "coldWeatherTolerance": "0°C",
-    "description": "Rottweilers handle cool weather well thanks to their dense coat. In hot climates, schedule exercise during cooler hours and provide shade and fresh water.",
+    "description": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Rottweilers</span> adapt <span style='color: #6b7280;'>well to both <strong style='color: #000000;'>hot</strong> and <strong style='color: #000000;'>cold</strong> climates, thanks to their <strong style='color: #000000;'>coat</strong> and overall resilience.</span>",
     "image": "/rott-1.png"
+  },
+  "traits": {
+    "description": "These attributes have been rated by dog trainers, expert vets and pet behaviorists. Remember that all dogs are individuals with their own personalities.",
+    "image": "/trait-img.png"
   },
   "diet": {
     "title": "DIET",
-    "mainDescription": "<span class='text-[#0888B1] italic'>Rottweilers</span> thrive on a <strong>lean, protein-rich, and balanced diet</strong> that supports muscle mass, joint health, and steady energy without excess weight gain.",
+    "subtitle": "Consider following tips when choosing food for your Rottweiler.",
+    "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Rottweilers</span> thrive on a <span style='color: #6b7280;'>high-protein, balanced diet rich in <strong style='color: #000000;'>animal-based proteins</strong>, <strong style='color: #000000;'>healthy fats</strong>,</span> <span style='color: #6b7280;'>and essential vitamins</span> <span style='color: #6b7280;'>to support their <strong style='color: #000000;'>active lifestyle</strong> and <strong style='color: #000000;'>joint health</strong>.</span>",
     "image": "/rott-2.png",
     "tips": [
       {
         "number": "1",
-        "title": "Prioritize lean protein",
-        "description": "Aim for 22–28% protein in active adults to maintain strong muscles. Choose chicken, turkey, fish, or lamb formulas.",
+        "title": "Choose a protein-rich diet",
+        "description": "Rottweilers benefit from lean, protein-rich diets (22–28%) with joint-supporting nutrients for their large, muscular build.",
         "products": [
           {
             "id": 1,
             "image": "/rott-3.png",
-            "label": "High-Protein Kibble",
-            "expandIcon": true
+            "label": "Chicken Based Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/chicken-based-food"
           },
           {
             "id": 2,
             "image": "/rott-3.png",
-            "label": "Fish-Based Food",
-            "expandIcon": true
+            "label": "Liver Based Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/liver-based-food"
           }
         ]
       },
       {
         "number": "2",
-        "title": "Joint support is key",
-        "description": "Large breeds benefit from Omega-3s, glucosamine, and chondroitin to support hips and elbows.",
+        "title": "Avoid fillers & additives",
+        "description": "Rottweilers should avoid foods with heavy fillers such as wheat and soy that may be difficult to digest or trigger sensitivities.",
         "products": [
           {
             "id": 1,
             "image": "/rott-3.png",
-            "label": "Joint Care Supplement",
-            "expandIcon": true
+            "label": "Grain-Free Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/grain-free-food"
           },
           {
             "id": 2,
             "image": "/rott-3.png",
-            "label": "Fish Oil Capsules",
-            "expandIcon": true
+            "label": "Natural Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/natural-food"
           }
         ]
       },
       {
         "number": "3",
-        "title": "Controlled calories",
-        "description": "Use measured portions and low-calorie treats to prevent excess weight that can stress joints.",
+        "title": "Add Essential Fatty Acids",
+        "description": "Look for foods containing Omega-3 and Omega-6 fatty acids to support skin, coat, and joint comfort.",
         "products": [
           {
             "id": 1,
             "image": "/rott-3.png",
-            "label": "Weight Management Food",
-            "expandIcon": true
+            "label": "Fish Oil Supplement",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/fish-oil-supplement"
           },
           {
             "id": 2,
             "image": "/rott-3.png",
-            "label": "Low-Cal Treats",
-            "expandIcon": true
+            "label": "Salmon Based Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/salmon-based-food"
           }
         ]
       },
       {
         "number": "4",
-        "title": "Life-stage nutrition",
-        "description": "Puppies need large-breed formulas with balanced calcium/phosphorus; seniors may benefit from lower calories and added joint support.",
+        "title": "Consider their age",
+        "description": "Choose an appropriate diet according to your Rottweiler's age—puppies need more protein and fat for growth, while adult and senior dogs may require lower levels for weight maintenance.",
         "products": [
           {
             "id": 1,
             "image": "/rott-3.png",
-            "label": "Large-Breed Puppy Food",
-            "expandIcon": true
+            "label": "Puppy Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/puppy-food"
           },
           {
             "id": 2,
             "image": "/rott-3.png",
-            "label": "Senior Large-Breed Food",
-            "expandIcon": true
+            "label": "Senior Dog Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/senior-dog-food"
           }
         ]
       }
@@ -102,57 +145,95 @@
   },
   "training": {
     "title": "ROTTWEILER TRAINING",
-    "mainDescription": "<span class='text-[#0888B1] italic'>Rottweilers</span> are intelligent and driven. <strong>Early socialization, structure, and positive reinforcement</strong> build a calm, reliable companion.",
+    "subtitle": "Essential training tips to help your Rottweiler thrive.",
+    "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Rottweilers</span> require <span style='color: #6b7280;'>regular <strong style='color: #000000;'>exercise</strong>, proper <strong style='color: #000000;'>grooming</strong>, <strong style='color: #000000;'>socialization</strong>, and consistent <strong style='color: #000000;'>training</strong></span> <span style='color: #6b7280;'>to maintain their physical health and mental well-being.</span>",
     "image": "/rott-4.png",
     "tips": [
       {
         "id": 1,
-        "title": "Structured obedience & socialization",
-        "description": "Practice daily cues (sit, stay, heel, place) and expose them to varied people, dogs, and environments from a young age.",
+        "title": "Physical training and exercises",
+        "description": "Include activities such as running, playing fetch, swimming, agility training, or hiking in their routine.",
         "image": "/rott-4.png",
         "products": [
-          { "image": "/rott-3.png", "label": "Treat Pouch" },
-          { "image": "/rott-3.png", "label": "Training Lead" }
+          {
+            "image": "/rott-3.png",
+            "label": "Training Product 1",
+            "link": "https://petcaart.com/product/training-product-1"
+          },
+          {
+            "image": "/rott-3.png",
+            "label": "Training Product 2",
+            "link": "https://petcaart.com/product/training-product-2"
+          }
         ]
       },
       {
         "id": 2,
-        "title": "Physical & mental outlets",
-        "description": "Provide 60–90 minutes of activity: structured walks, fetch, tracking games, and puzzle toys to channel working instincts.",
+        "title": "Interactive play",
+        "description": "Use scent-retention games and puzzle toys to provide mental stimulation and keep them engaged.",
         "image": "/rott-4.png",
         "products": [
-          { "image": "/rott-3.png", "label": "Puzzle Feeder" },
-          { "image": "/rott-3.png", "label": "Durable Tug Toy" }
+          {
+            "image": "/rott-3.png",
+            "label": "Puzzle Toys",
+            "link": "https://petcaart.com/product/puzzle-toys"
+          },
+          {
+            "image": "/rott-3.png",
+            "label": "Interactive Toys",
+            "link": "https://petcaart.com/product/interactive-toys"
+          }
         ]
       }
     ]
   },
   "grooming": {
     "title": "GROOMING",
-    "subtitle": "Short, dense double coat; low maintenance but regular care keeps skin and coat healthy.",
-    "mainDescription": "<span class='text-[#0888B1] italic'>Rottweilers</span> have a <strong>short double coat</strong> that benefits from weekly brushing and routine hygiene.",
+    "subtitle": "Consider following tips when grooming your Rottweiler.",
+    "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Rottweilers</span> have relatively <span style='color: #6b7280;'>low <strong style='color: #000000;'>grooming</strong> needs</span> despite their coat type. Here are some essential tips <span style='color: #6b7280;'>to ensure they</span> <strong style='color: #000000;'>shine.</strong>",
     "image": "/rott-6.png",
     "tips": [
       {
         "id": 1,
-        "title": "Weekly brushing",
-        "description": "Brush once or twice a week to remove loose hair and distribute natural oils; increase during seasonal shedding.",
+        "title": "Brush and bath",
+        "description": "Brush regularly to remove loose hair and distribute natural oils. Occasional bathing keeps them clean and fresh.",
         "image": "/rott-3.png",
         "products": [
-          { "image": "/rott-3.png", "label": "Bristle Brush" },
-          { "image": "/rott-3.png", "label": "Rubber Grooming Mitt" }
+          {
+            "image": "/rott-3.png",
+            "label": "Grooming Brush",
+            "link": "https://petcaart.com/product/grooming-brush"
+          },
+          {
+            "image": "/rott-3.png",
+            "label": "Dog Shampoo",
+            "link": "https://petcaart.com/product/dog-shampoo"
+          }
         ]
       },
       {
         "id": 2,
-        "title": "Skin, ear & nail care",
-        "description": "Bathe every 4–6 weeks with gentle shampoo, clean ears weekly, and trim nails regularly to prevent overgrowth.",
+        "title": "Keep their ears clean",
+        "description": "Check ears regularly and clean when required with a cotton ball and a mild ear-cleaning solution.",
         "image": "/rott-3.png",
         "products": [
-          { "image": "/rott-3.png", "label": "Gentle Dog Shampoo" },
-          { "image": "/rott-3.png", "label": "Ear Cleaner" }
+          {
+            "image": "/rott-3.png",
+            "label": "Ear Cleaner",
+            "link": "https://petcaart.com/product/ear-cleaner"
+          },
+          {
+            "image": "/rott-3.png",
+            "label": "Cotton Pads",
+            "link": "https://petcaart.com/product/cotton-pads"
+          }
         ]
       }
     ]
+  },
+  "homeCookedFood": {
+    "title": "Home-Cooked Food Must Contain:",
+    "description": "<span style='color: #6b7280;'>Preparing home-cooked meals may be <strong style='color: #000000;'>time consuming</strong> and <strong style='color: #000000;'>nutritionally incomplete</strong>, consider adding food <strong style='color: #000000;'>toppers</strong> or <strong style='color: #000000;'>supplements</strong> to make up for the <strong style='color: #000000;'>lack of nutrients</strong>.</span>",
+    "image": "/rott-8.png"
   }
 }

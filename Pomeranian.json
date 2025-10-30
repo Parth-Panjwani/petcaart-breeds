@@ -2,117 +2,241 @@
   "id": "pomeranian",
   "name": "Pomeranian",
   "slug": "pomeranian",
-  "image": "https://example.com/pomeranian-main.png",
-  "description": "The Pomeranian is spirited, intelligent, and full of charm — a tiny dog with a bold personality. Known for their fluffy double coat and lively nature, Pomeranians are affectionate companions who love attention and activity.",
+  "image": "/pom-7.png",
+  "navigation": [
+    {
+      "title": "ABOUT",
+      "image": "/t1.png"
+    },
+    {
+      "title": "DIET",
+      "image": "/t2.png"
+    },
+    {
+      "title": "TRAINING",
+      "image": "/t3.png"
+    },
+    {
+      "title": "GROOMING",
+      "image": "/t4.png"
+    }
+  ],
+  "description": "The <span style='color: #004e6a; font-weight: 600;'>Pomeranian</span> is known for its signature traits—loyalty, intelligence, and trainability. Recognized for their confidence and affectionate nature, <span style='color: #004e6a; font-weight: 600;'>Pomeranians</span> excel in family environments, working roles, and active lifestyles.",
   "category": "dogs",
   "characteristics": {
     "size": "Small",
     "temperament": "Alert, Playful, Intelligent",
     "lifespan": "12-16 years",
-    "weight": "2-4 kg"
+    "weight": "2-4 kg",
+    "colors": [
+      "Orange",
+      "Cream",
+      "Black",
+      "Sable"
+    ],
+    "weightDetails": {
+      "male": "3-4 kg",
+      "female": "2-3.5 kg"
+    },
+    "heightDetails": {
+      "male": "21-28 cm",
+      "female": "18-25 cm"
+    },
+    "coat": "Thick, fluffy double coat"
   },
   "adaptability": {
     "hotWeatherTolerance": "32°C",
     "coldWeatherTolerance": "5°C",
-    "description": "Pomeranians handle moderate temperatures well but should be kept cool in summer and warm during cold or windy weather due to their small size.",
+    "description": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Pomeranians</span> adapt <span style='color: #6b7280;'>well to both <strong style='color: #000000;'>hot</strong> and <strong style='color: #000000;'>cold</strong> climates, thanks to their <strong style='color: #000000;'>coat</strong> and overall resilience.</span>",
     "image": "/pom-1.png"
+  },
+  "traits": {
+    "description": "These attributes have been rated by dog trainers, expert vets and pet behaviorists. Remember that all dogs are individuals with their own personalities.",
+    "image": "/trait-img.png"
   },
   "diet": {
     "title": "DIET",
-    "mainDescription": "<span class='text-[#0888B1] italic'>Pomeranians</span> thrive on a <strong>nutrient-dense, high-protein small-breed diet</strong> to maintain energy, coat health, and dental hygiene.",
+    "subtitle": "Consider following tips when choosing food for your Pomeranian.",
+    "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Pomeranians</span> thrive on a <span style='color: #6b7280;'>high-protein, balanced diet rich in <strong style='color: #000000;'>animal-based proteins</strong>, <strong style='color: #000000;'>healthy fats</strong>,</span> <span style='color: #6b7280;'>and essential vitamins</span> <span style='color: #6b7280;'>to support their <strong style='color: #000000;'>active lifestyle</strong> and <strong style='color: #000000;'>joint health</strong>.</span>",
     "image": "/pom-2.png",
     "tips": [
       {
         "number": "1",
-        "title": "Small-bite kibble",
-        "description": "Select small-sized kibble rich in animal protein for easy chewing and improved digestion.",
+        "title": "Choose a protein-rich diet",
+        "description": "Pomeranians thrive on nutrient-dense small-breed diets with Omega-rich ingredients to support their coat and energy levels.",
         "products": [
-          { "id": 1, "image": "/pom-3.png", "label": "Small Breed Kibble", "expandIcon": true },
-          { "id": 2, "image": "/pom-3.png", "label": "Chicken & Rice Formula", "expandIcon": true }
+          {
+            "id": 1,
+            "image": "/pom-3.png",
+            "label": "Chicken Based Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/chicken-based-food"
+          },
+          {
+            "id": 2,
+            "image": "/pom-3.png",
+            "label": "Liver Based Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/liver-based-food"
+          }
         ]
       },
       {
         "number": "2",
-        "title": "Omega-rich diet",
-        "description": "Include fish oil or flaxseed to maintain the signature fluffy coat and healthy skin.",
+        "title": "Avoid fillers & additives",
+        "description": "Pomeranians should avoid foods with heavy fillers such as wheat and soy that may be difficult to digest or trigger sensitivities.",
         "products": [
-          { "id": 1, "image": "/pom-3.png", "label": "Fish Oil Supplement", "expandIcon": true },
-          { "id": 2, "image": "/pom-3.png", "label": "Salmon-Based Food", "expandIcon": true }
+          {
+            "id": 1,
+            "image": "/pom-3.png",
+            "label": "Grain-Free Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/grain-free-food"
+          },
+          {
+            "id": 2,
+            "image": "/pom-3.png",
+            "label": "Natural Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/natural-food"
+          }
         ]
       },
       {
         "number": "3",
-        "title": "Dental-friendly meals",
-        "description": "Crunchy kibble and dental chews help reduce tartar buildup common in small breeds.",
+        "title": "Add Essential Fatty Acids",
+        "description": "Look for foods containing Omega-3 and Omega-6 fatty acids to support skin, coat, and joint comfort.",
         "products": [
-          { "id": 1, "image": "/pom-3.png", "label": "Dental Chews", "expandIcon": true },
-          { "id": 2, "image": "/pom-3.png", "label": "Oral Care Treats", "expandIcon": true }
+          {
+            "id": 1,
+            "image": "/pom-3.png",
+            "label": "Fish Oil Supplement",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/fish-oil-supplement"
+          },
+          {
+            "id": 2,
+            "image": "/pom-3.png",
+            "label": "Salmon Based Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/salmon-based-food"
+          }
         ]
       },
       {
         "number": "4",
-        "title": "Frequent small meals",
-        "description": "Feed 3–4 small meals daily to maintain blood sugar and energy levels for their fast metabolism.",
+        "title": "Consider their age",
+        "description": "Choose an appropriate diet according to your Pomeranian's age—puppies need more protein and fat for growth, while adult and senior dogs may require lower levels for weight maintenance.",
         "products": [
-          { "id": 1, "image": "/pom-3.png", "label": "Small Meal Bowl", "expandIcon": true },
-          { "id": 2, "image": "/pom-3.png", "label": "Automatic Feeder", "expandIcon": true }
+          {
+            "id": 1,
+            "image": "/pom-3.png",
+            "label": "Puppy Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/puppy-food"
+          },
+          {
+            "id": 2,
+            "image": "/pom-3.png",
+            "label": "Senior Dog Food",
+            "expandIcon": true,
+            "link": "https://petcaart.com/product/senior-dog-food"
+          }
         ]
       }
     ]
   },
   "training": {
     "title": "POMERANIAN TRAINING",
-    "mainDescription": "<span class='text-[#0888B1] italic'>Pomeranians</span> are smart and eager learners. <strong>Short, engaging sessions with positive reinforcement</strong> help keep them focused and responsive.",
+    "subtitle": "Essential training tips to help your Pomeranian thrive.",
+    "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Pomeranians</span> require <span style='color: #6b7280;'>regular <strong style='color: #000000;'>exercise</strong>, proper <strong style='color: #000000;'>grooming</strong>, <strong style='color: #000000;'>socialization</strong>, and consistent <strong style='color: #000000;'>training</strong></span> <span style='color: #6b7280;'>to maintain their physical health and mental well-being.</span>",
     "image": "/pom-4.png",
     "tips": [
       {
         "id": 1,
-        "title": "Early socialization",
-        "description": "Expose them to different people and environments early to prevent excessive barking or nervousness.",
+        "title": "Physical training and exercises",
+        "description": "Include activities such as running, playing fetch, swimming, agility training, or hiking in their routine.",
         "image": "/pom-4.png",
         "products": [
-          { "image": "/pom-3.png", "label": "Puppy Social Kit" },
-          { "image": "/pom-3.png", "label": "Reward Treats" }
+          {
+            "image": "/pom-3.png",
+            "label": "Training Product 1",
+            "link": "https://petcaart.com/product/training-product-1"
+          },
+          {
+            "image": "/pom-3.png",
+            "label": "Training Product 2",
+            "link": "https://petcaart.com/product/training-product-2"
+          }
         ]
       },
       {
         "id": 2,
-        "title": "Basic obedience training",
-        "description": "Teach essential commands like sit, stay, and come with treats and praise to encourage good manners.",
+        "title": "Interactive play",
+        "description": "Use scent-retention games and puzzle toys to provide mental stimulation and keep them engaged.",
         "image": "/pom-4.png",
         "products": [
-          { "image": "/pom-3.png", "label": "Clicker" },
-          { "image": "/pom-3.png", "label": "Training Treats" }
+          {
+            "image": "/pom-3.png",
+            "label": "Puzzle Toys",
+            "link": "https://petcaart.com/product/puzzle-toys"
+          },
+          {
+            "image": "/pom-3.png",
+            "label": "Interactive Toys",
+            "link": "https://petcaart.com/product/interactive-toys"
+          }
         ]
       }
     ]
   },
   "grooming": {
     "title": "GROOMING",
-    "subtitle": "Pomeranians have a thick double coat that requires regular care to prevent matting and maintain their fluffy appearance.",
-    "mainDescription": "<span class='text-[#0888B1] italic'>Pomeranians</span> need <strong>regular brushing and coat maintenance</strong> to keep their fur tangle-free and shiny.",
+    "subtitle": "Consider following tips when grooming your Pomeranian.",
+    "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Pomeranians</span> have relatively <span style='color: #6b7280;'>low <strong style='color: #000000;'>grooming</strong> needs</span> despite their coat type. Here are some essential tips <span style='color: #6b7280;'>to ensure they</span> <strong style='color: #000000;'>shine.</strong>",
     "image": "/pom-6.png",
     "tips": [
       {
         "id": 1,
-        "title": "Frequent brushing",
-        "description": "Brush 3–4 times a week to prevent tangles and matting, especially behind ears and under the legs.",
+        "title": "Brush and bath",
+        "description": "Brush regularly to remove loose hair and distribute natural oils. Occasional bathing keeps them clean and fresh.",
         "image": "/pom-3.png",
         "products": [
-          { "image": "/pom-3.png", "label": "Slicker Brush" },
-          { "image": "/pom-3.png", "label": "Detangling Spray" }
+          {
+            "image": "/pom-3.png",
+            "label": "Grooming Brush",
+            "link": "https://petcaart.com/product/grooming-brush"
+          },
+          {
+            "image": "/pom-3.png",
+            "label": "Dog Shampoo",
+            "link": "https://petcaart.com/product/dog-shampoo"
+          }
         ]
       },
       {
         "id": 2,
-        "title": "Bathing & trimming",
-        "description": "Bathe every 4–6 weeks and trim excess fur around paws and face to keep them neat and comfortable.",
+        "title": "Keep their ears clean",
+        "description": "Check ears regularly and clean when required with a cotton ball and a mild ear-cleaning solution.",
         "image": "/pom-3.png",
         "products": [
-          { "image": "/pom-3.png", "label": "Gentle Dog Shampoo" },
-          { "image": "/pom-3.png", "label": "Grooming Scissors" }
+          {
+            "image": "/pom-3.png",
+            "label": "Ear Cleaner",
+            "link": "https://petcaart.com/product/ear-cleaner"
+          },
+          {
+            "image": "/pom-3.png",
+            "label": "Cotton Pads",
+            "link": "https://petcaart.com/product/cotton-pads"
+          }
         ]
       }
     ]
+  },
+  "homeCookedFood": {
+    "title": "Home-Cooked Food Must Contain:",
+    "description": "<span style='color: #6b7280;'>Preparing home-cooked meals may be <strong style='color: #000000;'>time consuming</strong> and <strong style='color: #000000;'>nutritionally incomplete</strong>, consider adding food <strong style='color: #000000;'>toppers</strong> or <strong style='color: #000000;'>supplements</strong> to make up for the <strong style='color: #000000;'>lack of nutrients</strong>.</span>",
+    "image": "/pom-8.png"
   }
 }
