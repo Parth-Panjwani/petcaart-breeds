@@ -2,7 +2,7 @@
   "id": "siberian-husky",
   "name": "Siberian Husky",
   "slug": "siberian-husky",
-  "image": "/husky-7.png",
+  "image": "https://res.cloudinary.com/dtypwgdpn/image/upload/v1762459345/2_iotewa.png",
   "navigation": [
     {
       "title": "ABOUT",
@@ -48,17 +48,17 @@
     "hotWeatherTolerance": "28°C",
     "coldWeatherTolerance": "-15°C",
     "description": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Siberian Huskies</span> adapt <span style='color: #6b7280;'>well to both <strong style='color: #000000;'>hot</strong> and <strong style='color: #000000;'>cold</strong> climates, thanks to their <strong style='color: #000000;'>coat</strong> and overall resilience.</span>",
-    "image": "/husky-1.png"
+    "image": "https://res.cloudinary.com/dtypwgdpn/image/upload/v1762459348/1_s4cmub.png"
   },
   "traits": {
     "description": "These attributes have been rated by dog trainers, expert vets and pet behaviorists. Remember that all dogs are individuals with their own personalities.",
-    "image": "/trait-img.png"
+    "image": "https://res.cloudinary.com/dtypwgdpn/image/upload/v1762459345/3_sutmqz.png"
   },
   "diet": {
     "title": "DIET",
     "subtitle": "Consider following tips when choosing food for your Siberian Husky.",
     "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Siberian Huskies</span> thrive on a <span style='color: #6b7280;'>high-protein, balanced diet rich in <strong style='color: #000000;'>animal-based proteins</strong>, <strong style='color: #000000;'>healthy fats</strong>,</span> <span style='color: #6b7280;'>and essential vitamins</span> <span style='color: #6b7280;'>to support their <strong style='color: #000000;'>active lifestyle</strong> and <strong style='color: #000000;'>joint health</strong>.</span>",
-    "image": "/husky-2.png",
+    "image": "https://res.cloudinary.com/dtypwgdpn/image/upload/v1762459345/4_uhnqqm.png",
     "tips": [
       {
         "number": "1",
@@ -150,7 +150,7 @@
     "title": "SIBERIAN HUSKY TRAINING",
     "subtitle": "Essential training tips to help your Siberian Husky thrive.",
     "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Siberian Huskies</span> require <span style='color: #6b7280;'>regular <strong style='color: #000000;'>exercise</strong>, proper <strong style='color: #000000;'>grooming</strong>, <strong style='color: #000000;'>socialization</strong>, and consistent <strong style='color: #000000;'>training</strong></span> <span style='color: #6b7280;'>to maintain their physical health and mental well-being.</span>",
-    "image": "/husky-4.png",
+    "image": "https://res.cloudinary.com/dtypwgdpn/image/upload/v1762459345/6_xsdwue.png",
     "tips": [
       {
         "id": 1,
@@ -194,7 +194,7 @@
     "title": "GROOMING",
     "subtitle": "Consider following tips when grooming your Siberian Husky.",
     "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Siberian Huskies</span> have relatively <span style='color: #6b7280;'>low <strong style='color: #000000;'>grooming</strong> needs</span> despite their coat type. Here are some essential tips <span style='color: #6b7280;'>to ensure they</span> <strong style='color: #000000;'>shine.</strong>",
-    "image": "/husky-6.png",
+    "image": "https://res.cloudinary.com/dtypwgdpn/image/upload/v1762459345/7_rjntcg.png",
     "tips": [
       {
         "id": 1,
