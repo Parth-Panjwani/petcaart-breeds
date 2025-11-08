@@ -2,7 +2,7 @@
   "id": "shih-tzu",
   "name": "Shih Tzu",
   "slug": "shih-tzu",
-  "image": "/shihtzu-7.png",
+  "image": "https://res.cloudinary.com/dtypwgdpn/image/upload/v1762615278/2_fcwnjg.png",
   "navigation": [
     {
       "title": "ABOUT",
@@ -28,12 +28,7 @@
     "temperament": "Affectionate, Playful, Gentle",
     "lifespan": "10-16 years",
     "weight": "4-7.5 kg",
-    "colors": [
-      "Gold & White",
-      "Black & White",
-      "Solid Black",
-      "Solid Gold"
-    ],
+    "colors": ["Gold & White", "Black & White", "Solid Black", "Solid Gold"],
     "weightDetails": {
       "male": "5-7.5 kg",
       "female": "4-6.5 kg"
@@ -48,17 +43,17 @@
     "hotWeatherTolerance": "32°C",
     "coldWeatherTolerance": "10°C",
     "description": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Shih Tzus</span> adapt <span style='color: #6b7280;'>well to both <strong style='color: #000000;'>hot</strong> and <strong style='color: #000000;'>cold</strong> climates, thanks to their <strong style='color: #000000;'>coat</strong> and overall resilience.</span>",
-    "image": "/shihtzu-1.png"
+    "image": "https://res.cloudinary.com/dtypwgdpn/image/upload/v1762615281/1_miqxlm.png"
   },
   "traits": {
     "description": "These attributes have been rated by dog trainers, expert vets and pet behaviorists. Remember that all dogs are individuals with their own personalities.",
-    "image": "/trait-img.png"
+    "image": "https://res.cloudinary.com/dtypwgdpn/image/upload/v1762615275/3_upzagz.png"
   },
   "diet": {
     "title": "DIET",
     "subtitle": "Consider following tips when choosing food for your Shih Tzu.",
     "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Shih Tzus</span> thrive on a <span style='color: #6b7280;'>high-protein, balanced diet rich in <strong style='color: #000000;'>animal-based proteins</strong>, <strong style='color: #000000;'>healthy fats</strong>,</span> <span style='color: #6b7280;'>and essential vitamins</span> <span style='color: #6b7280;'>to support their <strong style='color: #000000;'>active lifestyle</strong> and <strong style='color: #000000;'>joint health</strong>.</span>",
-    "image": "/shihtzu-2.png",
+    "image": "https://res.cloudinary.com/dtypwgdpn/image/upload/v1762615275/4_q32mip.png",
     "tips": [
       {
         "number": "1",
@@ -150,7 +145,7 @@
     "title": "SHIH TZU TRAINING",
     "subtitle": "Essential training tips to help your Shih Tzu thrive.",
     "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Shih Tzus</span> require <span style='color: #6b7280;'>regular <strong style='color: #000000;'>exercise</strong>, proper <strong style='color: #000000;'>grooming</strong>, <strong style='color: #000000;'>socialization</strong>, and consistent <strong style='color: #000000;'>training</strong></span> <span style='color: #6b7280;'>to maintain their physical health and mental well-being.</span>",
-    "image": "/shihtzu-4.png",
+    "image": "https://res.cloudinary.com/dtypwgdpn/image/upload/v1762615274/6_ob833h.png",
     "tips": [
       {
         "id": 1,
@@ -194,7 +189,7 @@
     "title": "GROOMING",
     "subtitle": "Consider following tips when grooming your Shih Tzu.",
     "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Shih Tzus</span> have relatively <span style='color: #6b7280;'>low <strong style='color: #000000;'>grooming</strong> needs</span> despite their coat type. Here are some essential tips <span style='color: #6b7280;'>to ensure they</span> <strong style='color: #000000;'>shine.</strong>",
-    "image": "/shihtzu-6.png",
+    "image": "https://res.cloudinary.com/dtypwgdpn/image/upload/v1762615275/7_dugtfj.png",
     "tips": [
       {
         "id": 1,

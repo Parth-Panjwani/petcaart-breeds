@@ -2,7 +2,7 @@
   "id": "rottweiler",
   "name": "Rottweiler",
   "slug": "rottweiler",
-  "image": "/rott-7.png",
+  "image": "https://res.cloudinary.com/dtypwgdpn/image/upload/v1762612610/1_jifxgq.png",
   "navigation": [
     {
       "title": "ABOUT",
@@ -28,9 +28,7 @@
     "temperament": "Confident, Loyal, Protective",
     "lifespan": "9-10 years",
     "weight": "35-60 kg",
-    "colors": [
-      "Black & Tan"
-    ],
+    "colors": ["Black & Tan"],
     "weightDetails": {
       "male": "45-60 kg",
       "female": "35-48 kg"
@@ -45,17 +43,17 @@
     "hotWeatherTolerance": "28°C",
     "coldWeatherTolerance": "0°C",
     "description": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Rottweilers</span> adapt <span style='color: #6b7280;'>well to both <strong style='color: #000000;'>hot</strong> and <strong style='color: #000000;'>cold</strong> climates, thanks to their <strong style='color: #000000;'>coat</strong> and overall resilience.</span>",
-    "image": "/rott-1.png"
+    "image": "https://res.cloudinary.com/dtypwgdpn/image/upload/v1762612611/2_e2yamf.png"
   },
   "traits": {
     "description": "These attributes have been rated by dog trainers, expert vets and pet behaviorists. Remember that all dogs are individuals with their own personalities.",
-    "image": "/trait-img.png"
+    "image": "https://res.cloudinary.com/dtypwgdpn/image/upload/v1762612610/3_vaxacr.png"
   },
   "diet": {
     "title": "DIET",
     "subtitle": "Consider following tips when choosing food for your Rottweiler.",
     "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Rottweilers</span> thrive on a <span style='color: #6b7280;'>high-protein, balanced diet rich in <strong style='color: #000000;'>animal-based proteins</strong>, <strong style='color: #000000;'>healthy fats</strong>,</span> <span style='color: #6b7280;'>and essential vitamins</span> <span style='color: #6b7280;'>to support their <strong style='color: #000000;'>active lifestyle</strong> and <strong style='color: #000000;'>joint health</strong>.</span>",
-    "image": "/rott-2.png",
+    "image": "https://res.cloudinary.com/dtypwgdpn/image/upload/v1762612610/4_slizal.png",
     "tips": [
       {
         "number": "1",
@@ -147,7 +145,7 @@
     "title": "ROTTWEILER TRAINING",
     "subtitle": "Essential training tips to help your Rottweiler thrive.",
     "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Rottweilers</span> require <span style='color: #6b7280;'>regular <strong style='color: #000000;'>exercise</strong>, proper <strong style='color: #000000;'>grooming</strong>, <strong style='color: #000000;'>socialization</strong>, and consistent <strong style='color: #000000;'>training</strong></span> <span style='color: #6b7280;'>to maintain their physical health and mental well-being.</span>",
-    "image": "/rott-4.png",
+    "image": "https://res.cloudinary.com/dtypwgdpn/image/upload/v1762612609/6_s8wks9.png",
     "tips": [
       {
         "id": 1,
@@ -191,7 +189,7 @@
     "title": "GROOMING",
     "subtitle": "Consider following tips when grooming your Rottweiler.",
     "mainDescription": "<span style='color: #004e6a; font-weight: 600; font-style: italic;'>Rottweilers</span> have relatively <span style='color: #6b7280;'>low <strong style='color: #000000;'>grooming</strong> needs</span> despite their coat type. Here are some essential tips <span style='color: #6b7280;'>to ensure they</span> <strong style='color: #000000;'>shine.</strong>",
-    "image": "/rott-6.png",
+    "image": "https://res.cloudinary.com/dtypwgdpn/image/upload/v1762612609/7_mns7id.png",
     "tips": [
       {
         "id": 1,
